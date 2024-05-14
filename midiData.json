@@ -1462,5 +1462,13 @@
   "imageFilename": "Sweden_Minecraft.jpg",
   "githubUser": "CrimsonfiedOfficial",
   "arrangement": "Torby Brand"
+},
+  {
+  "name": "Dernière danse",
+  "artists": "Indila",
+  "midiFilename": "Dernire_Danse.mid",
+  "imageFilename": "Derniere_danse_cover.png",
+  "githubUser": "uchihatasu",
+  "arrangement": ""
 }
 ]
